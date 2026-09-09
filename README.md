@@ -2,9 +2,9 @@
 
 # `enzzodasul`
 
-### Enzzo da Sul · Full Stack Developer
+### Enzzo da Sul · Developer
 
-`Web` · `Backend` · `AI` · `Automation`
+`Frontend` · `Backend` · `AI` · `Data Science`
 
 </div>
 
@@ -43,44 +43,37 @@
 </pre>
 
 </td>
+
 <td width="42%" valign="top">
 
 ### `enzzodasul@github`
 
 ```text
-OS       : Windows / Linux
-Location : Brazil
-Role     : Developer
-Focus    : Full Stack + AI
-Status   : Building...
+Role   : Developer
+Focus  : Full Stack
+Stack  : Web + Backend + AI
+Based  : Brazil
+Status : Building...
 ```
 
-### `STACK`
+### `TECH`
 
-**Languages**
+`HTML` `CSS` `JavaScript`  
+`TypeScript` `Python` `C` `C#`  
+`PHP` `React` `Vue` `Node.js`  
+`Express` `Bootstrap` `Tailwind`  
+`SQL` `MongoDB`
 
-`JavaScript` `TypeScript`  
-`Python` `HTML` `CSS`
+### `FOCUS`
 
-**Frontend**
+→ Modern Frontend  
+→ Backend & APIs  
+→ Artificial Intelligence  
+→ Data Science
 
-`React` `Vite`  
-`Tailwind` `Bootstrap`
+### `TOOLS`
 
-**Backend**
-
-`Node.js` `Express`  
-`Flask` `REST API`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`  
-`npm` `Postman`
-
-### `LEARNING`
-
-`AI` · `TypeScript`  
-`Architecture` · `Full Stack`
+`Git` `GitHub` `VS Code` `npm`
 
 </td>
 </tr>
@@ -88,26 +81,49 @@ Status   : Building...
 
 ---
 
-### `> projects`
+## `> course`
 
-| Project | Stack |
+### Formação em Programação Full Stack
+
+| Módulo | Conteúdo |
 |---|---|
-| **Soberana** | React · TypeScript |
-| **AI Projects** | Python · AI |
-| **Barbante** | Web · JavaScript · Python |
-| **Notes App** | Web · JavaScript |
-| **REST APIs** | Node · Express · Flask |
+| **M1** | HTML – Frontend |
+| **M2** | CSS – Frontend |
+| **Práticas** | Práticas em HTML + CSS – Frontend |
+| **M3** | JavaScript – Frontend |
+| **Práticas** | Práticas em HTML + CSS + JS – Frontend |
+| **M4** | Bootstrap – Frontend |
+| **M5** | React – Frontend |
+| **M6** | TypeScript – Frontend |
+| **M7** | Vue JS – Frontend |
+| **M8** | Tailwind – Frontend |
+| **M9** | UI/UX – Frontend |
+| **M10** | Algoritmos com C – Backend |
+| **M11** | Python – Backend |
+| **M12** | Inteligência Artificial |
+| **M13** | C# – Backend |
+| **M14** | Node JS – Backend |
+| **M15** | Práticas |
+| **M16** | Express – Backend |
+| **M17** | Bancos de Dados Estruturados: SQL – Backend |
+| **M18** | Bancos de Dados não Estruturados: MongoDB – Backend |
+| **M19** | PHP – Backend |
+| **M20** | Introdução ao Data Science |
 
 ---
 
-### `> mindset`
+## `> currently`
 
 ```text
-Learn → Build → Test → Improve
+Learning → Building → Testing → Improving
 ```
 
-I learn by building real things, experimenting with new technologies
-and turning ideas into working software.
+Projetos reais, experimentos com novas tecnologias e evolução constante.
+
+### `> projects`
+
+`SOBERANA` · `AI Projects` · `Barbante`  
+`Notes App` · `REST APIs` · `Web Projects`
 
 ---
 
