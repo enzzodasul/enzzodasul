@@ -1,121 +1,160 @@
-<div align="center">
+# 👨‍💻 Enzzo da Sul
 
-# `enzzodasul`
+### Full Stack Developer | Software Engineering | Artificial Intelligence
 
-### Enzzo da Sul · Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+digital+experiences.;Developing+modern+applications.;Exploring+Artificial+Intelligence.;Learning.+Building.+Evolving." alt="Typing SVG" />
+</p>
 
-++++++++++*::#######::.:%#%##%%%+=-%###===%%%%%%%%%:::%%%%%%
-+++++++++++*::#######%%#%%@%%@%@@%#%%%%%%%%%%%%%%%:::+%%%%%%
-++++++++++++*::#####%%%@%%%%@@@@%%%:::::::::::::::::-%%%%%%%
-==++++++++++++.::%%*%%%%%%%%%%###@@+++%%%%%#****************
-===++++++++++++++--%#+++*********#%*+++#****+*++++++++++++++
-====+++++++++++++++**++*++*********#****++++++++++++++++====
-=====+++++++++++++++*+++++****###**#****+++++++++++++=======
-====-+++++++++++++++++*#%@#*#%%##***+%++++++++++============
---=--=+=++==++++++++%+++##*=+******#@@@%#+==++++++++========
-==-=-=-+====+=++++*@@=+++++=++#****@@@@@@%@.::==+***********
-==-=-==-=+=====%%%@@@@%+****#*****#@@@@@@@@@%%.:............
-============%%@%%%@@@@@@**+**#**##%@@@@@@@@@@@@@@::::::::.::
-===========%%%@@@@@@@@@@@@*+****#%@@@@@@@@@@@@@@%@.:::::::::
-==========%%%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%.::::::::
-=========%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:-:-----
-========-@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:-------
-========@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@::-::--
-=======-%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:------
-=======%%@@@@@@@@#@@%++@@@@@@@@@@@@@@@=:+@@@@@@@@@@@@@:-----
-======#%%%@@%@@@@=@@%%%%-=@@@@@@@@@@:==#=@@@@@@@@@@@@@------
-======%@@%@@@@@@@+@+===-@#----*:::::+@@=++#@@@@@@@@@@@%:----
-=====#%%@@@@@@@@--@*#==#*-+@@%::.@@#-@%*+@%%@@@@@@@@@@@:----
-</pre>
-
-</td>
-
-<td width="42%" valign="top">
-
-
-```text
-Role   : Developer
-Focus  : Full Stack
-Stack  : Web + Backend + AI
-Based  : Brazil
-Status : Building...
-```
-
-### `TECH`
-
-`HTML` `CSS` `JavaScript`  
-`TypeScript` `Python` `C` `C#`  
-`PHP` `React` `Vue` `Node.js`  
-`Express` `Bootstrap` `Tailwind`  
-`SQL` `MongoDB`
-
-### `FOCUS`
-
-→ Modern Frontend  
-→ Backend & APIs  
-→ Artificial Intelligence  
-→ Data Science
-
-### `TOOLS`
-
-`Git` `GitHub` `VS Code` `npm`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/enzzodasul">
+    <img src="https://img.shields.io/badge/GitHub-enzzodasul-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-00D9FF?style=for-the-badge" />
+</p>
 
 ---
 
-## `> course`
+## `01. ABOUT ME`
 
-### Formação em Programação Full Stack
+I'm Enzzo, a developer focused on building modern digital solutions and expanding my knowledge across the software development ecosystem.
 
-| Módulo | Conteúdo |
+My interests include Full Stack Development, backend architecture, modern frontend technologies and Artificial Intelligence.
+
+I believe in learning through practice, building real projects, solving problems and continuously improving my technical skills.
+
+```javascript
+const enzzo = {
+  role: "Developer",
+  focus: ["Full Stack", "Backend", "Frontend", "AI"],
+  country: "Brazil",
+  mindset: "Always learning, building and evolving",
+  currently: "Turning ideas into code"
+};
+```
+
+---
+
+## `02. TECHNOLOGY STACK`
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cs,php" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,npm" />
+</p>
+
+### Artificial Intelligence & Data
+
+- Artificial Intelligence
+- Generative AI
+- Prompt Engineering
+- Data Science
+
+---
+
+## `03. EDUCATION & LEARNING PATH`
+
+### Full Stack Programming Training
+
+Currently building a broad technical foundation through a structured learning path.
+
+| Module | Technology / Subject | Area |
+|:---:|---|---|
+| M01 | HTML | Frontend |
+| M02 | CSS | Frontend |
+| M03 | JavaScript | Frontend |
+| M04 | Bootstrap | Frontend |
+| M05 | React | Frontend |
+| M06 | TypeScript | Frontend |
+| M07 | Vue.js | Frontend |
+| M08 | Tailwind CSS | Frontend |
+| M09 | UI/UX Design | Frontend |
+| M10 | Algorithms with C | Backend |
+| M11 | Python | Backend |
+| M12 | Artificial Intelligence | AI |
+| M13 | C# | Backend |
+| M14 | Node.js | Backend |
+| M15 | Practical Projects | Development |
+| M16 | Express.js | Backend |
+| M17 | SQL | Database |
+| M18 | MongoDB | Database |
+| M19 | PHP | Backend |
+| M20 | Introduction to Data Science | Data |
+
+**Practical learning:** HTML, CSS, JavaScript and combined frontend exercises.
+
+---
+
+## `04. CURRENT FOCUS`
+
+```text
+LEARNING  →  BUILDING  →  TESTING  →  IMPROVING
+```
+
+Areas I'm exploring and developing:
+
+- Modern Frontend Development
+- Backend Development & REST APIs
+- Java Programming
+- Artificial Intelligence & AI Agents
+- Database Architecture
+- Software Engineering
+
+---
+
+## `05. SELECTED PROJECTS`
+
+Projects and experiments from my development journey:
+
+| Project | Description |
 |---|---|
-| **M1** | HTML – Frontend |
-| **M2** | CSS – Frontend |
-| **Práticas** | Práticas em HTML + CSS – Frontend |
-| **M3** | JavaScript – Frontend |
-| **Práticas** | Práticas em HTML + CSS + JS – Frontend |
-| **M4** | Bootstrap – Frontend |
-| **M5** | React – Frontend |
-| **M6** | TypeScript – Frontend |
-| **M7** | Vue JS – Frontend |
-| **M8** | Tailwind – Frontend |
-| **M9** | UI/UX – Frontend |
-| **M10** | Algoritmos com C – Backend |
-| **M11** | Python – Backend |
-| **M12** | Inteligência Artificial |
-| **M13** | C# – Backend |
-| **M14** | Node JS – Backend |
-| **M15** | Práticas |
-| **M16** | Express – Backend |
-| **M17** | Bancos de Dados Estruturados: SQL – Backend |
-| **M18** | Bancos de Dados não Estruturados: MongoDB – Backend |
-| **M19** | PHP – Backend |
-| **M20** | Introdução ao Data Science |
+| **SOBERANA** | Software development project |
+| **AI Projects** | Artificial Intelligence experiments |
+| **Barbante** | Digital project |
+| **Notes App** | Application development |
+| **REST APIs** | Backend and API development |
+| **Web Projects** | Frontend experiments and applications |
 
 ---
 
-## `> currently`
+## `06. DEVELOPMENT PHILOSOPHY`
 
-```text
-Learning → Building → Testing → Improving
-```
+<p align="center">
+  <b>Code. Create. Solve. Evolve.</b>
+</p>
 
-Projetos reais, experimentos com novas tecnologias e evolução constante.
-
-### `> projects`
-
-`SOBERANA` · `AI Projects` · `Barbante`  
-`Notes App` · `REST APIs` · `Web Projects`
+<p align="center">
+  I don't just want to learn technologies.<br/>
+  I want to understand how things work and build solutions that matter.
+</p>
 
 ---
 
-<div align="center">
+## `07. CONNECT WITH ME`
 
-[![GitHub](https://img.shields.io/badge/GitHub-enzzodasul-181717?style=for-the-badge&logo=github)](https://github.com/enzzodasul)
+<p align="center">
+  <a href="https://github.com/enzzodasul">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-`enzzodasul@github:~$ _`
+<p align="center">
+  <code>enzzodasul@github:~$ _</code>
+</p>
 
-</div>
+<p align="center">
+  <sub>Building my journey, one commit at a time.</sub>
+</p>
