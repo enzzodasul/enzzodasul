@@ -6,7 +6,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,30:111C46,65:0759C7,100:00D9FF&height=230&section=header&text=ENZZO&MARCHESOTTI&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%%7C%&descSize=15&descAlignY=58&descColor=00E5FF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,30:111C46,65:0759C7,100:00D9FF&height=230&section=header&text=ENZZO%MARCHESOTTI&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%%%&descSize=15&descAlignY=58&descColor=00E5FF" />
 </p>
 
 <p align="center">
