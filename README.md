@@ -69,7 +69,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <table>
 <tr>
 <td width="50%" valign="top">
-<br>
+<a href="https://github.com/enzzodasul/APP-VIAGEM-SEGURA"><img src=".github/assets/projects/viagem-segura.svg" width="100%" alt="Viagem Segura" /></a>
 <h3 align="center">🛰️ Viagem Segura</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
@@ -85,7 +85,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <br>
 </td>
 <td width="50%" valign="top">
-<br>
+<a href="https://github.com/enzzodasul/Site-Enzzodasul"><img src=".github/assets/projects/enzzo-platform.svg" width="100%" alt="Enzzo da Sul Platform" /></a>
 <h3 align="center">🎵 Enzzo da Sul — Platform</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
@@ -102,7 +102,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </tr>
 <tr>
 <td width="50%" valign="top">
-<br>
+<a href="https://github.com/enzzodasul/Sistema-ia-precificacao-odontologica"><img src=".github/assets/projects/ai-dental.svg" width="100%" alt="AI Dental Pricing" /></a>
 <h3 align="center">🦷 AI Dental Pricing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -115,7 +115,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <br>
 </td>
 <td width="50%" valign="top">
-<br>
+<a href="https://github.com/enzzodasul/estudos-react"><img src=".github/assets/projects/mini-catalogo.svg" width="100%" alt="Mini Catálogo" /></a>
 <h3 align="center">🛍️ Mini Catálogo</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
@@ -131,7 +131,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </tr>
 <tr>
 <td width="50%" valign="top">
-<br>
+<a href="https://github.com/enzzodasul/Sistema-Controle-de-caixa"><img src=".github/assets/projects/cash-control.svg" width="100%" alt="Cash Control System" /></a>
 <h3 align="center">💰 Cash Control System</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
@@ -144,7 +144,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <br>
 </td>
 <td width="50%" valign="top">
-<br>
+<a href="https://github.com/enzzodasul/Novo-Site-Cervejaria-Barbante"><img src=".github/assets/projects/barbante.svg" width="100%" alt="Cervejaria Barbante" /></a>
 <h3 align="center">🍺 Cervejaria Barbante</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=E34F26" />
