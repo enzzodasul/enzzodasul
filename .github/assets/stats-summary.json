@@ -1,158 +1,173 @@
 {
-  "generatedAt": "2026-11-26T04:56:14.784Z",
+  "generatedAt": "2026-11-26T05:03:05.896Z",
   "username": "enzzodasul",
   "totalStars": 0,
-  "totalCommits": 358,
+  "totalCommits": 359,
   "totalPRs": 2,
-  "totalIssues": 12,
-  "openIssues": 9,
-  "closedIssues": 3,
+  "totalIssues": 77,
+  "openIssues": 15,
+  "closedIssues": 62,
+  "milestonesParticipated": 12,
+  "milestones": [
+    "01 — EP1: Autenticação",
+    "02 — EP2: Dashboard (protótipo)",
+    "03 — EP3: Clínicas e Procedimentos (protótipo)",
+    "04 — EP4: Precificação com IA (protótipo)",
+    "05 — EP5: Comparações (protótipo)",
+    "06 — EP6: Histórico (protótipo)",
+    "07 — EP7: Perfil e Configurações (protótipo)",
+    "08 — EP8: Correções e Ajustes",
+    "10 — M1: Auth e cadastros",
+    "11 — M2: Precificação",
+    "12 — M3: IA e conversa",
+    "13 — M4: Comparação e fechamento"
+  ],
   "contributedTo": 2,
   "repositories": [
     "Soberana-Front/chatbot-soberana-web"
   ],
+  "auditedRepos": [
+    {
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "totalIssuesInRepo": 167,
+      "milestones": [
+        {
+          "number": 1,
+          "title": "01 — EP1: Autenticação",
+          "state": "open",
+          "open_issues": 5,
+          "closed_issues": 11
+        },
+        {
+          "number": 2,
+          "title": "02 — EP2: Dashboard (protótipo)",
+          "state": "closed",
+          "open_issues": 0,
+          "closed_issues": 17
+        },
+        {
+          "number": 3,
+          "title": "03 — EP3: Clínicas e Procedimentos (protótipo)",
+          "state": "closed",
+          "open_issues": 0,
+          "closed_issues": 16
+        },
+        {
+          "number": 4,
+          "title": "04 — EP4: Precificação com IA (protótipo)",
+          "state": "closed",
+          "open_issues": 0,
+          "closed_issues": 15
+        },
+        {
+          "number": 5,
+          "title": "05 — EP5: Comparações (protótipo)",
+          "state": "closed",
+          "open_issues": 0,
+          "closed_issues": 8
+        },
+        {
+          "number": 6,
+          "title": "06 — EP6: Histórico (protótipo)",
+          "state": "closed",
+          "open_issues": 0,
+          "closed_issues": 5
+        },
+        {
+          "number": 7,
+          "title": "07 — EP7: Perfil e Configurações (protótipo)",
+          "state": "closed",
+          "open_issues": 0,
+          "closed_issues": 9
+        },
+        {
+          "number": 8,
+          "title": "08 — EP8: Correções e Ajustes",
+          "state": "open",
+          "open_issues": 5,
+          "closed_issues": 26
+        },
+        {
+          "number": 9,
+          "title": "09 — M0: Fundação do front",
+          "state": "closed",
+          "open_issues": 0,
+          "closed_issues": 8
+        },
+        {
+          "number": 10,
+          "title": "10 — M1: Auth e cadastros",
+          "state": "open",
+          "open_issues": 14,
+          "closed_issues": 0
+        },
+        {
+          "number": 11,
+          "title": "11 — M2: Precificação",
+          "state": "open",
+          "open_issues": 12,
+          "closed_issues": 0
+        },
+        {
+          "number": 12,
+          "title": "12 — M3: IA e conversa",
+          "state": "open",
+          "open_issues": 7,
+          "closed_issues": 0
+        },
+        {
+          "number": 13,
+          "title": "13 — M4: Comparação e fechamento",
+          "state": "open",
+          "open_issues": 8,
+          "closed_issues": 0
+        }
+      ]
+    }
+  ],
   "issues": [
     {
-      "id": 5769720360,
-      "number": 186,
+      "id": 5196364656,
+      "number": 3,
       "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #128 – Confirmar limites da página de Configurações",
-      "state": "open",
-      "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/186",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5769718668,
-      "number": 184,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #126 – Definir regra extra no Alterar Senha (nova senha ≠ atual)",
+      "title": "Issue #2 – Criar AuthLayout (layout de autenticação)",
       "state": "closed",
+      "milestone": "01 — EP1: Autenticação",
       "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/184",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/3",
       "criteria": [
-        "involves",
-        "org:Soberana-Front"
+        "commit:title-match(13ff49e)"
       ]
     },
     {
-      "id": 5769705437,
-      "number": 173,
+      "id": 5196377752,
+      "number": 6,
       "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #115 – Unificar rotas de dados do usuário (GET /auth/me vs GET /profile)",
-      "state": "open",
-      "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/173",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5769704419,
-      "number": 172,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #114 – Definir endpoint para upload de foto de perfil",
-      "state": "open",
-      "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/172",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5769703249,
-      "number": 171,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #113 – Definir tratamento de 401 para senha atual errada",
-      "state": "open",
-      "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/171",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5769700471,
-      "number": 169,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #111 – Alinhar baseURL com o backend",
+      "title": "Issue #5 – Criar serviço de autenticação (authService)",
       "state": "closed",
+      "milestone": "01 — EP1: Autenticação",
       "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/169",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/6",
       "criteria": [
-        "involves",
-        "org:Soberana-Front"
+        "commit:title-match(13ff49e)",
+        "commit:title-match(1df1ab0)",
+        "commit:title-match(93aa751)"
       ]
     },
     {
-      "id": 5769699406,
-      "number": 168,
+      "id": 5196380560,
+      "number": 7,
       "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #110 – Corrigir schema.d.ts e caminho do api:types",
-      "state": "closed",
+      "title": "Issue #6 – Criar AuthContext (contexto de autenticação)",
+      "state": "open",
+      "milestone": "01 — EP1: Autenticação",
       "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/168",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/7",
       "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5769697982,
-      "number": 167,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "Issue #109 – Verificar integração da página de Comparações",
-      "state": "open",
-      "author": "gabrieljorda",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/167",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5197465554,
-      "number": 26,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "FE-013 — Criar perfil e configurações do usuário",
-      "state": "open",
-      "author": "LeonelPrestes",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/26",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5197464643,
-      "number": 25,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "FE-012 — Implementar logout e encerramento da sessão",
-      "state": "open",
-      "author": "LeonelPrestes",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/25",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
-      ]
-    },
-    {
-      "id": 5197463015,
-      "number": 23,
-      "repo": "Soberana-Front/chatbot-soberana-web",
-      "title": "FE-010 — Implementar redefinição de senha",
-      "state": "open",
-      "author": "LeonelPrestes",
-      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/23",
-      "criteria": [
-        "involves",
-        "org:Soberana-Front"
+        "commit:title-match(d948e0e)",
+        "commit:title-match(13ff49e)",
+        "commit:title-match(c6bdeb3)",
+        "commit:title-match(0a1e0c3)"
       ]
     },
     {
@@ -161,11 +176,1128 @@
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "FE-009 — Implementar solicitação de recuperação de senha",
       "state": "open",
+      "milestone": "10 — M1: Auth e cadastros",
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/22",
       "criteria": [
         "involves",
-        "org:Soberana-Front"
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197463015,
+      "number": 23,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-010 — Implementar redefinição de senha",
+      "state": "open",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/23",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197464643,
+      "number": 25,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-012 — Implementar logout e encerramento da sessão",
+      "state": "open",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/25",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197465554,
+      "number": 26,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-013 — Criar perfil e configurações do usuário",
+      "state": "open",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/26",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:title-match(d3ed3c8)",
+        "commit:title-match(08ed587)"
+      ]
+    },
+    {
+      "id": 5197469850,
+      "number": 31,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-018 — Criar editor de custos atuais da clínica",
+      "state": "open",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/31",
+      "criteria": [
+        "commit:title-match(592932f)"
+      ]
+    },
+    {
+      "id": 5197474329,
+      "number": 36,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-023 — Criar listagem e histórico de precificações",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/36",
+      "criteria": [
+        "commit:title-match(b4dfd5b)"
+      ]
+    },
+    {
+      "id": 5197481931,
+      "number": 45,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-032 — Finalizar uma precificação",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/45",
+      "criteria": [
+        "commit:title-match(7f79bab)"
+      ]
+    },
+    {
+      "id": 5197485482,
+      "number": 49,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-036 — Criar interface de conversa da precificação",
+      "state": "open",
+      "milestone": "12 — M3: IA e conversa",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/49",
+      "criteria": [
+        "commit:title-match(066f776)",
+        "commit:title-match(7f79bab)"
+      ]
+    },
+    {
+      "id": 5197491386,
+      "number": 56,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-043 — Criar comparação textual e tabular",
+      "state": "open",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/56",
+      "criteria": [
+        "commit:title-match(3377c7c)"
+      ]
+    },
+    {
+      "id": 5206214056,
+      "number": 79,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #28 – Criar DashboardLayout (layout principal)",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/79",
+      "criteria": [
+        "commit:title-match(6fe9e6e)",
+        "commit:internal#28(d6dbd33)",
+        "commit:EP2-summary(d6dbd33)",
+        "commit:title-match(b907bd2)"
+      ]
+    },
+    {
+      "id": 5206216980,
+      "number": 80,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #29 – Criar Sidebar (MenuLateral)",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/80",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206221279,
+      "number": 81,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #30 – Criar Header (Navbar)",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/81",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206224304,
+      "number": 82,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #31 – Criar IndicatorCard (componente reutilizável)",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/82",
+      "criteria": [
+        "commit:title-match(e870d60)",
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206242678,
+      "number": 83,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #32 – Criar IndicatorsGrid",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/83",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206249448,
+      "number": 84,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #33 – Criar ClinicSelector",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/84",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206252031,
+      "number": 85,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #34 – Criar ProcedureSelector",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/85",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206253362,
+      "number": 86,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #35 – Criar PricingSummary",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/86",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206254751,
+      "number": 87,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #36 – Criar QuickActions",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/87",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206256280,
+      "number": 88,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #37 – Criar ChatMessage",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/88",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206257789,
+      "number": 89,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #38 – Criar ChatInput",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/89",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206259345,
+      "number": 90,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #39 – Criar ChatWindow",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/90",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206260551,
+      "number": 91,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #40 – Criar RecentHistory",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/91",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206262066,
+      "number": 92,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #41 – Criar página Dashboard (integrando todos os componentes)",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/92",
+      "criteria": [
+        "commit:title-match(b48508c)",
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206263997,
+      "number": 93,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #42 – Criar hook useDashboardData",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/93",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206265305,
+      "number": 94,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #43 – Criar dashboardService",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/94",
+      "criteria": [
+        "commit:EP2-summary(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5206266509,
+      "number": 95,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #44 – Criar componentes compartilhados (PriceDisplay, ProfitIndicator)",
+      "state": "closed",
+      "milestone": "02 — EP2: Dashboard (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/95",
+      "criteria": [
+        "commit:title-match(6d98187)",
+        "commit:title-match(edd91db)",
+        "commit:internal#44(5895d8a)",
+        "commit:internal#44(d6dbd33)",
+        "commit:EP2-summary(d6dbd33)",
+        "commit:title-match(dae6036)",
+        "commit:title-match(17a1c2a)",
+        "commit:title-match(56e0862)"
+      ]
+    },
+    {
+      "id": 5214292971,
+      "number": 97,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #46 – Criar ClinicForm (formulário de clínica)",
+      "state": "closed",
+      "milestone": "03 — EP3: Clínicas e Procedimentos (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/97",
+      "criteria": [
+        "commit:title-match(592932f)",
+        "commit:title-match(35220a7)",
+        "commit:title-match(978ce10)",
+        "commit:title-match(553f521)"
+      ]
+    },
+    {
+      "id": 5214307361,
+      "number": 104,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #53 – Criar ProcedureForm (formulário de procedimento)",
+      "state": "closed",
+      "milestone": "03 — EP3: Clínicas e Procedimentos (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/104",
+      "criteria": [
+        "commit:title-match(d041c30)",
+        "commit:title-match(b8a0414)",
+        "commit:title-match(f2cfc11)",
+        "commit:title-match(3cc7a56)"
+      ]
+    },
+    {
+      "id": 5214380175,
+      "number": 112,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #61 – Criar PricingWizard (stepper com 4 etapas)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/112",
+      "criteria": [
+        "commit:title-match(b8a0414)"
+      ]
+    },
+    {
+      "id": 5214382768,
+      "number": 113,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #62 – Criar ClinicStep (etapa 1 – selecionar clínica)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/113",
+      "criteria": [
+        "commit:title-match(592932f)",
+        "commit:title-match(35220a7)",
+        "commit:title-match(978ce10)",
+        "commit:title-match(553f521)"
+      ]
+    },
+    {
+      "id": 5214383938,
+      "number": 114,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #63 – Criar ProcedureStep (etapa 2 – selecionar procedimento)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/114",
+      "criteria": [
+        "commit:title-match(d041c30)",
+        "commit:internal#63(b8a0414)",
+        "commit:title-match(b8a0414)",
+        "commit:title-match(f2cfc11)",
+        "commit:title-match(3cc7a56)"
+      ]
+    },
+    {
+      "id": 5214385796,
+      "number": 115,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #64 – Criar ChatConversation (etapa 3 – chat com IA)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/115",
+      "criteria": [
+        "commit:title-match(23f4aa1)",
+        "commit:internal#64(7f79bab)",
+        "commit:title-match(7f79bab)",
+        "commit:internal#64(897303a)",
+        "commit:title-match(be4799c)",
+        "commit:title-match(d6dbd33)",
+        "commit:title-match(8fe828e)",
+        "commit:title-match(5d89675)",
+        "commit:title-match(b3957e2)",
+        "commit:title-match(67e827e)"
+      ]
+    },
+    {
+      "id": 5214388928,
+      "number": 117,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #66 – Criar PriceDisplay (componente reutilizável)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/117",
+      "criteria": [
+        "commit:internal#66(edd91db)",
+        "commit:title-match(edd91db)"
+      ]
+    },
+    {
+      "id": 5214390201,
+      "number": 118,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #67 – Criar ProfitIndicator (componente reutilizável)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/118",
+      "criteria": [
+        "commit:internal#67(e870d60)",
+        "commit:title-match(e870d60)"
+      ]
+    },
+    {
+      "id": 5214391465,
+      "number": 119,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #68 – Criar ExportPDFButton (botão para exportar PDF)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/119",
+      "criteria": [
+        "commit:internal#68(5012791)",
+        "commit:title-match(5012791)"
+      ]
+    },
+    {
+      "id": 5214392720,
+      "number": 120,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #69 – Criar página Nova Precificação (integrar wizard)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/120",
+      "criteria": [
+        "commit:internal#69(066f776)",
+        "commit:title-match(066f776)",
+        "commit:title-match(7f79bab)"
+      ]
+    },
+    {
+      "id": 5214393935,
+      "number": 121,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #70 – Criar hook usePricingWizard",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/121",
+      "criteria": [
+        "commit:internal#70(3c166d9)"
+      ]
+    },
+    {
+      "id": 5214394953,
+      "number": 122,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #71 – Criar hook usePricingChat",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/122",
+      "criteria": [
+        "commit:internal#71(23f4aa1)"
+      ]
+    },
+    {
+      "id": 5214396182,
+      "number": 123,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #72 – Criar pricingService",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/123",
+      "criteria": [
+        "commit:internal#72(b351ca8)"
+      ]
+    },
+    {
+      "id": 5214397326,
+      "number": 124,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #73 – Criar componente AdicionarItem (se houver lógica de adicionar itens ao chat)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/124",
+      "criteria": [
+        "commit:internal#73(6d98187)"
+      ]
+    },
+    {
+      "id": 5214399606,
+      "number": 125,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #74 – Criar PricingDetail (detalhamento da precificação)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/125",
+      "criteria": [
+        "commit:internal#74(9fe0e9b)",
+        "commit:internal#74(8cbdd81)",
+        "commit:title-match(8cbdd81)",
+        "commit:title-match(066f776)",
+        "commit:title-match(edd91db)"
+      ]
+    },
+    {
+      "id": 5214400764,
+      "number": 126,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #75 – Criar e integrar tipos do Pricing",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/126",
+      "criteria": [
+        "commit:internal#75(9fe0e9b)",
+        "commit:title-match(9fe0e9b)"
+      ]
+    },
+    {
+      "id": 5214472174,
+      "number": 128,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #77 – Criar ComparisonSelector (seletores para comparação)",
+      "state": "closed",
+      "milestone": "05 — EP5: Comparações (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/128",
+      "criteria": [
+        "commit:title-match(4260b06)",
+        "commit:title-match(a140e5a)",
+        "commit:title-match(8012d0a)",
+        "commit:title-match(b4a0fce)",
+        "commit:title-match(6d98187)",
+        "commit:title-match(35220a7)",
+        "commit:title-match(edd91db)",
+        "commit:title-match(b48508c)",
+        "commit:title-match(3377c7c)",
+        "commit:title-match(dae6036)",
+        "commit:title-match(17a1c2a)",
+        "commit:title-match(5d89675)",
+        "commit:title-match(67e827e)",
+        "commit:title-match(a5acded)",
+        "commit:title-match(56e0862)",
+        "commit:title-match(3cc7a56)",
+        "commit:title-match(978ce10)",
+        "commit:title-match(1feef20)",
+        "commit:title-match(5232c30)",
+        "commit:title-match(9870e4f)",
+        "commit:title-match(32716aa)",
+        "commit:title-match(b907bd2)",
+        "commit:title-match(553f521)"
+      ]
+    },
+    {
+      "id": 5214474124,
+      "number": 129,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #78 – Criar ComparisonTable (tabela comparativa)",
+      "state": "closed",
+      "milestone": "05 — EP5: Comparações (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/129",
+      "criteria": [
+        "commit:title-match(4260b06)",
+        "commit:title-match(a140e5a)",
+        "commit:title-match(8012d0a)",
+        "commit:title-match(b4a0fce)",
+        "commit:title-match(6d98187)",
+        "commit:title-match(35220a7)",
+        "commit:title-match(edd91db)",
+        "commit:title-match(b48508c)",
+        "commit:title-match(3377c7c)",
+        "commit:title-match(dae6036)",
+        "commit:title-match(17a1c2a)",
+        "commit:title-match(5d89675)",
+        "commit:title-match(67e827e)",
+        "commit:title-match(a5acded)",
+        "commit:title-match(56e0862)",
+        "commit:title-match(3cc7a56)",
+        "commit:title-match(978ce10)",
+        "commit:title-match(1feef20)",
+        "commit:title-match(5232c30)",
+        "commit:title-match(9870e4f)",
+        "commit:title-match(32716aa)",
+        "commit:title-match(b907bd2)",
+        "commit:title-match(553f521)"
+      ]
+    },
+    {
+      "id": 5214477256,
+      "number": 131,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #80 – Criar ComparisonChart (gráficos comparativos)",
+      "state": "closed",
+      "milestone": "05 — EP5: Comparações (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/131",
+      "criteria": [
+        "commit:title-match(4260b06)",
+        "commit:title-match(a140e5a)",
+        "commit:title-match(8012d0a)",
+        "commit:title-match(b4a0fce)",
+        "commit:title-match(6d98187)",
+        "commit:title-match(35220a7)",
+        "commit:title-match(edd91db)",
+        "commit:title-match(b48508c)",
+        "commit:title-match(3377c7c)",
+        "commit:title-match(dae6036)",
+        "commit:title-match(17a1c2a)",
+        "commit:title-match(5d89675)",
+        "commit:title-match(67e827e)",
+        "commit:title-match(a5acded)",
+        "commit:title-match(56e0862)",
+        "commit:title-match(3cc7a56)",
+        "commit:title-match(978ce10)",
+        "commit:title-match(1feef20)",
+        "commit:title-match(5232c30)",
+        "commit:title-match(9870e4f)",
+        "commit:title-match(32716aa)",
+        "commit:title-match(b907bd2)",
+        "commit:title-match(553f521)"
+      ]
+    },
+    {
+      "id": 5214479065,
+      "number": 132,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #81 – Criar página de Comparações (integrar componentes)",
+      "state": "closed",
+      "milestone": "05 — EP5: Comparações (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/132",
+      "criteria": [
+        "commit:title-match(4260b06)",
+        "commit:title-match(a140e5a)",
+        "commit:title-match(8012d0a)",
+        "commit:title-match(b4a0fce)",
+        "commit:title-match(6d98187)",
+        "commit:title-match(35220a7)",
+        "commit:title-match(edd91db)",
+        "commit:title-match(b48508c)",
+        "commit:title-match(3377c7c)",
+        "commit:title-match(dae6036)",
+        "commit:title-match(17a1c2a)",
+        "commit:title-match(5d89675)",
+        "commit:title-match(67e827e)",
+        "commit:title-match(a5acded)",
+        "commit:title-match(56e0862)",
+        "commit:title-match(3cc7a56)",
+        "commit:title-match(978ce10)",
+        "commit:title-match(1feef20)",
+        "commit:title-match(5232c30)",
+        "commit:title-match(9870e4f)",
+        "commit:title-match(32716aa)",
+        "commit:title-match(b907bd2)",
+        "commit:title-match(553f521)"
+      ]
+    },
+    {
+      "id": 5214603378,
+      "number": 141,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #95 – Criar hook useSettings",
+      "state": "closed",
+      "milestone": "07 — EP7: Perfil e Configurações (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/141",
+      "criteria": [
+        "commit:internal#95(d6dbd33)"
+      ]
+    },
+    {
+      "id": 5215588929,
+      "number": 145,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #85 – Criar HistoryCard (card de histórico)",
+      "state": "closed",
+      "milestone": "06 — EP6: Histórico (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/145",
+      "criteria": [
+        "commit:internal#85(d6dbd33)",
+        "commit:title-match(b4dfd5b)",
+        "commit:title-match(94fd09e)"
+      ]
+    },
+    {
+      "id": 5215589869,
+      "number": 146,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #86 – Criar HistoryFilters (filtros do histórico)",
+      "state": "closed",
+      "milestone": "06 — EP6: Histórico (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/146",
+      "criteria": [
+        "commit:title-match(b4dfd5b)",
+        "commit:title-match(94fd09e)"
+      ]
+    },
+    {
+      "id": 5215591117,
+      "number": 147,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #87 – Criar HistoryDetail (detalhe do histórico)",
+      "state": "closed",
+      "milestone": "06 — EP6: Histórico (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/147",
+      "criteria": [
+        "commit:title-match(b4dfd5b)",
+        "commit:title-match(94fd09e)"
+      ]
+    },
+    {
+      "id": 5769674562,
+      "number": 156,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #98 – Corrigir Input que não carrega valores iniciais do react-hook-form",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/156",
+      "criteria": [
+        "commit:internal#98(592932f)"
+      ]
+    },
+    {
+      "id": 5769676517,
+      "number": 157,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #99 – Corrigir IDs aleatórios em Input e Select",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/157",
+      "criteria": [
+        "commit:internal#99(b4a0fce)",
+        "commit:title-match(b4a0fce)"
+      ]
+    },
+    {
+      "id": 5769678457,
+      "number": 158,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #100 – Corrigir Button: disabled sobrescreve isLoading",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/158",
+      "criteria": [
+        "commit:internal#100(e6534a4)"
+      ]
+    },
+    {
+      "id": 5769680235,
+      "number": 159,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #101 – Corrigir Select: placeholder não permite voltar a \"nenhum\"",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/159",
+      "criteria": [
+        "commit:internal#101(8012d0a)"
+      ]
+    },
+    {
+      "id": 5769681718,
+      "number": 160,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #102 – Corrigir navegação do dropdown do Header",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/160",
+      "criteria": [
+        "commit:internal#102(08ed587)",
+        "commit:title-match(08ed587)",
+        "commit:title-match(9870e4f)"
+      ]
+    },
+    {
+      "id": 5769685397,
+      "number": 161,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #103 – Unificar AuthProvider (duplicado)",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/161",
+      "criteria": [
+        "commit:title-match(f9e5a16)",
+        "commit:internal#103(13ff49e)",
+        "commit:title-match(13ff49e)"
+      ]
+    },
+    {
+      "id": 5769687789,
+      "number": 162,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #104 – Unificar layouts e Headers duplicados",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/162",
+      "criteria": [
+        "commit:gh#162(f9e5a16)",
+        "commit:title-match(f9e5a16)",
+        "commit:title-match(6fe9e6e)"
+      ]
+    },
+    {
+      "id": 5769689840,
+      "number": 163,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #105 – Padronizar organização de pastas dos componentes",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/163",
+      "criteria": [
+        "commit:gh#163(a140e5a)"
+      ]
+    },
+    {
+      "id": 5769691089,
+      "number": 164,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #106 – Unificar tipos de settings (duplicados)",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/164",
+      "criteria": [
+        "commit:gh#164(a1c4f8d)",
+        "commit:title-match(a1c4f8d)"
+      ]
+    },
+    {
+      "id": 5769692683,
+      "number": 165,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #107 – Unificar estado do usuário (AuthContext vs useProfile)",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/165",
+      "criteria": [
+        "commit:gh#165(d3ed3c8)"
+      ]
+    },
+    {
+      "id": 5769695478,
+      "number": 166,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #108 – Remover hooks e services órfãos",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/166",
+      "criteria": [
+        "commit:gh#166(1c0793e)",
+        "commit:title-match(1c0793e)"
+      ]
+    },
+    {
+      "id": 5769697982,
+      "number": 167,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #109 – Verificar integração da página de Comparações",
+      "state": "open",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/167",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#167(4260b06)",
+        "commit:title-match(4260b06)"
+      ]
+    },
+    {
+      "id": 5769699406,
+      "number": 168,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #110 – Corrigir schema.d.ts e caminho do api:types",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/168",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5769700471,
+      "number": 169,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #111 – Alinhar baseURL com o backend",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/169",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5769701839,
+      "number": 170,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #112 – Corrigir components.json (shadcn)",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/170",
+      "criteria": [
+        "commit:internal#112(513cc85)"
+      ]
+    },
+    {
+      "id": 5769703249,
+      "number": 171,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #113 – Definir tratamento de 401 para senha atual errada",
+      "state": "open",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/171",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5769704419,
+      "number": 172,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #114 – Definir endpoint para upload de foto de perfil",
+      "state": "open",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/172",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5769705437,
+      "number": 173,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #115 – Unificar rotas de dados do usuário (GET /auth/me vs GET /profile)",
+      "state": "open",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/173",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5769707075,
+      "number": 174,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #116 – Padronizar mínimo de senha (6 vs 8 caracteres)",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/174",
+      "criteria": [
+        "commit:internal#116(80b7364)",
+        "commit:title-match(80b7364)"
+      ]
+    },
+    {
+      "id": 5769714475,
+      "number": 180,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #122 – Reconfigurar ESLint/Prettier e adicionar testes",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/180",
+      "criteria": [
+        "commit:gh#180(04e97bd)",
+        "commit:title-match(04e97bd)"
+      ]
+    },
+    {
+      "id": 5769715374,
+      "number": 181,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #123 – Remover bypass comentado no AuthContext",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/181",
+      "criteria": [
+        "commit:gh#181(d948e0e)",
+        "commit:title-match(d948e0e)"
+      ]
+    },
+    {
+      "id": 5769717709,
+      "number": 183,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #125 – Corrigir comentário desatualizado no useProfile.ts",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/183",
+      "criteria": [
+        "commit:gh#183(9828964)"
+      ]
+    },
+    {
+      "id": 5769718668,
+      "number": 184,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #126 – Definir regra extra no Alterar Senha (nova senha ≠ atual)",
+      "state": "closed",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/184",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5769720360,
+      "number": 186,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #128 – Confirmar limites da página de Configurações",
+      "state": "open",
+      "milestone": "08 — EP8: Correções e Ajustes",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/186",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:title-match(04e97bd)",
+        "commit:title-match(513cc85)",
+        "commit:title-match(08ed587)"
       ]
     }
   ]
