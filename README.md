@@ -1,23 +1,27 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  ENZZO MARCHESOTTI · GITHUB PROFILE                               -->
-<!--  Design: Dark Premium · Violet/Cyan · Editorial Layout            -->
+<!--  Design: Dark Premium · Animated · Violet/Cyan                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src=".github/assets/header-dark.svg#gh-dark-mode-only" alt="Enzzo Marchesotti — Full Stack Developer" width="100%" />
-<img src=".github/assets/header-light.svg#gh-light-mode-only" alt="Enzzo Marchesotti — Full Stack Developer" width="100%" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3000&pause=1500&color=7D8590&center=true&vCenter=true&repeat=true&width=480&height=28&lines=Building+full+stack+applications+with+modern+tools.;From+concept+to+code+—+learning+and+shipping.;Java+·+TypeScript+·+React+·+Node.js+·+Python" alt="Typing animation" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a1145,40:7C3AED,60:4f46e5,80:0e7490,100:0D1117&height=230&section=header&text=ENZZO%20MARCHESOTTI&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%C2%B7%20Brazil&descSize=15&descAlignY=55&descColor=C4B5FD" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/enzzodasul">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="https://github.com/enzzodasul?tab=repositories">
-    <img src="https://img.shields.io/badge/44_Repositories-161B22?style=flat&logo=github&logoColor=7D8590" alt="Repositories" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=enzzodasul&style=flat&color=161B22&label=Profile+Views" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=550&height=40&lines=%E2%9C%A6+Building+full+stack+applications;%E2%9C%A6+Java+%7C+TypeScript+%7C+React+%7C+Python;%E2%9C%A6+Exploring+AI+%26+modern+architectures" alt="Typing" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/enzzodasul"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/enzzodasul?tab=repositories"><img src="https://img.shields.io/badge/44_Repos-161B22?style=flat&logo=github&logoColor=7D8590" /></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=enzzodasul&style=flat&color=161B22&label=Views" />
+</p>
+
+<br>
+
+<p align="center">
+Developer from Brazil building full stack applications with <b>Java</b>, <b>TypeScript</b>, <b>React</b>, <b>Node.js</b>, and <b>Python</b>.<br>
+Currently deepening backend architecture and AI through the <b>Itaú Java + AI Bootcamp</b> at DIO.
 </p>
 
 <br>
@@ -26,9 +30,33 @@
 
 <br>
 
-Developer from Brazil building full stack applications with **Java**, **TypeScript**, **React**, **Node.js**, and **Python**. Currently deepening my skills in backend architecture and artificial intelligence through the **Itaú Java + AI Bootcamp** at DIO.
+## 📊 Analytics
 
-I approach development as a craft — each project is an opportunity to understand systems more deeply, write better code, and solve real problems.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E6EDF3&ring_color=7C3AED&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=06B6D4&text_color=1F2328&ring_color=7C3AED&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E6EDF3&ring_color=7C3AED&rank_icon=github" alt="Stats" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzodasul&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzodasul&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=1F2328&langs_count=8" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzodasul&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&langs_count=8" alt="Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=enzzodasul&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=7D8590&dates=7D8590&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=enzzodasul&hide_border=true&background=FFFFFF&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED&sideLabels=656D76&dates=656D76&currStreakNum=1F2328&sideNums=1F2328" />
+    <img width="540" src="https://streak-stats.demolab.com?user=enzzodasul&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=7D8590&dates=7D8590&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzzodasul&bg_color=0D1117&color=A78BFA&line=06B6D4&point=7C3AED&area_color=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
 
 <br>
 
@@ -36,13 +64,13 @@ I approach development as a craft — each project is an opportunity to understa
 
 <br>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <br>
-<h3 align="center">Viagem Segura</h3>
+<h3 align="center">🛰️ Viagem Segura</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Fastify-161B22?style=flat&logo=fastify&logoColor=white" />
@@ -50,31 +78,24 @@ I approach development as a craft — each project is an opportunity to understa
   <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
 </p>
-<p align="center"><sub>Multi-company delivery tracking platform. Modular Fastify API, Prisma/PostgreSQL schema with PostGIS, Docker Compose infrastructure, and React Native mobile app structure.</sub></p>
+<p align="center"><sub>Multi-company delivery tracking platform. Modular Fastify API, Prisma/PostgreSQL with PostGIS, Docker Compose, and React Native mobile app structure.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/APP-VIAGEM-SEGURA">
-    <img src="https://img.shields.io/badge/Source_Code_→-161B22?style=flat&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/enzzodasul/APP-VIAGEM-SEGURA"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>
 </p>
 <br>
 </td>
 <td width="50%" valign="top">
 <br>
-<h3 align="center">Enzzo da Sul — Platform</h3>
+<h3 align="center">🎵 Enzzo da Sul — Platform</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
 </p>
-<p align="center"><sub>Official digital platform for a musical artist. Features embedded Spotify player, YouTube video management system, responsive design, and dynamic content sections.</sub></p>
+<p align="center"><sub>Official digital platform for a musical artist. Embedded Spotify player, YouTube video management, responsive design, and dynamic content.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/Site-Enzzodasul">
-    <img src="https://img.shields.io/badge/Source_Code_→-161B22?style=flat&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://enzzodasul.github.io/Site-Enzzodasul/">
-    <img src="https://img.shields.io/badge/Live_Demo_→-161B22?style=flat&logo=vercel&logoColor=06B6D4" />
-  </a>
+  <a href="https://github.com/enzzodasul/Site-Enzzodasul"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Site-Enzzodasul/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
 </p>
 <br>
 </td>
@@ -82,38 +103,28 @@ I approach development as a craft — each project is an opportunity to understa
 <tr>
 <td width="50%" valign="top">
 <br>
-<h3 align="center">AI Dental Pricing System</h3>
+<h3 align="center">🦷 AI Dental Pricing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/AI_Integration-161B22?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-161B22?style=flat&logo=openai&logoColor=white" />
 </p>
-<p align="center"><sub>AI-powered pricing system for dental procedures. Combines artificial intelligence with healthcare business logic for automated quotation and pricing analysis.</sub></p>
+<p align="center"><sub>AI-powered pricing system for dental procedures. Combines artificial intelligence with healthcare business logic for automated quotation.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/Sistema-ia-precificacao-odontologica">
-    <img src="https://img.shields.io/badge/Source_Code_→-161B22?style=flat&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://enzzodasul.github.io/Sistema-ia-precificacao-odontologica/">
-    <img src="https://img.shields.io/badge/Live_Demo_→-161B22?style=flat&logo=vercel&logoColor=06B6D4" />
-  </a>
+  <a href="https://github.com/enzzodasul/Sistema-ia-precificacao-odontologica"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Sistema-ia-precificacao-odontologica/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
 </p>
 <br>
 </td>
 <td width="50%" valign="top">
 <br>
-<h3 align="center">Mini Catálogo</h3>
+<h3 align="center">🛍️ Mini Catálogo</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=white" />
 </p>
-<p align="center"><sub>Product catalog application with favorites system, detail pages, and responsive UI. Built with React Router, Context API, and custom hooks. Deployed on Vercel.</sub></p>
+<p align="center"><sub>Product catalog with favorites, detail pages, and responsive UI. Built with React Router, Context API, and custom hooks. Deployed on Vercel.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/estudos-react">
-    <img src="https://img.shields.io/badge/Source_Code_→-161B22?style=flat&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://mini-catalogo-beta.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo_→-161B22?style=flat&logo=vercel&logoColor=06B6D4" />
-  </a>
+  <a href="https://github.com/enzzodasul/estudos-react"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://mini-catalogo-beta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
 </p>
 <br>
 </td>
@@ -121,36 +132,29 @@ I approach development as a craft — each project is an opportunity to understa
 <tr>
 <td width="50%" valign="top">
 <br>
-<h3 align="center">Cash Control System</h3>
+<h3 align="center">💰 Cash Control System</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Flask-161B22?style=flat&logo=flask&logoColor=white" />
 </p>
-<p align="center"><sub>Daily cash register management system with sales tracking, withdrawals, automatic report generation, and real-time totals. Built as a SaaS-oriented application.</sub></p>
+<p align="center"><sub>Daily cash register management with sales tracking, withdrawals, automatic report generation, and real-time totals. SaaS-oriented architecture.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/Sistema-Controle-de-caixa">
-    <img src="https://img.shields.io/badge/Source_Code_→-161B22?style=flat&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/enzzodasul/Sistema-Controle-de-caixa"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>
 </p>
 <br>
 </td>
 <td width="50%" valign="top">
 <br>
-<h3 align="center">Cervejaria Barbante</h3>
+<h3 align="center">🍺 Cervejaria Barbante</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
 </p>
-<p align="center"><sub>Complete website for a craft brewery brand. Multi-page layout with product showcase, brand identity, and responsive design across devices.</sub></p>
+<p align="center"><sub>Complete website for a craft brewery. Multi-page layout with product showcase, brand identity, and responsive design.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/Novo-Site-Cervejaria-Barbante">
-    <img src="https://img.shields.io/badge/Source_Code_→-161B22?style=flat&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://enzzodasul.github.io/Novo-Site-Cervejaria-Barbante/">
-    <img src="https://img.shields.io/badge/Live_Demo_→-161B22?style=flat&logo=vercel&logoColor=06B6D4" />
-  </a>
+  <a href="https://github.com/enzzodasul/Novo-Site-Cervejaria-Barbante"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Novo-Site-Cervejaria-Barbante/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
 </p>
 <br>
 </td>
@@ -160,7 +164,7 @@ I approach development as a craft — each project is an opportunity to understa
 <br>
 
 <details>
-<summary><b>More Projects</b></summary>
+<summary><b>📂 More Projects</b></summary>
 <br>
 
 | Project | Stack | Description |
@@ -168,16 +172,12 @@ I approach development as a craft — each project is an opportunity to understa
 | [REST API Store](https://github.com/enzzodasul/projeto-api-store) | `JavaScript` `Node.js` | Product management API — latest backend project |
 | [Express CRUD API](https://github.com/enzzodasul/node-express-crud-api) | `Node.js` `Express` | RESTful API with full CRUD and category filtering |
 | [AI App Integration](https://github.com/enzzodasul/Teste-Inteligencia-Artificial-integrada-no-meu-app) | `Python` | AI integration experiment in application context |
-| [Notes App](https://github.com/enzzodasul/APLICATIVO-DE-NOTAS) | `HTML` `CSS` `JS` | Web-based notes application · [Live](https://enzzodasul.github.io/APLICATIVO-DE-NOTAS/) |
+| [Notes App](https://github.com/enzzodasul/APLICATIVO-DE-NOTAS) | `HTML` `CSS` `JS` | Web notes app · [Live](https://enzzodasul.github.io/APLICATIVO-DE-NOTAS/) |
 | [Backend Practices](https://github.com/enzzodasul/Praticas-Node-js) | `Node.js` | Backend development exercises and patterns |
 | [Prisma Studies](https://github.com/enzzodasul/Estudo-prisma) | `JavaScript` `Prisma` | ORM exploration with Prisma |
 
 <br>
-<p align="center">
-  <a href="https://github.com/enzzodasul?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_44_Repositories_→-161B22?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+<p align="center"><a href="https://github.com/enzzodasul?tab=repositories"><img src="https://img.shields.io/badge/View_All_44_Repositories-161B22?style=flat&logo=github&logoColor=white" /></a></p>
 </details>
 
 <br>
@@ -186,7 +186,7 @@ I approach development as a craft — each project is an opportunity to understa
 
 <br>
 
-## Tech Stack
+## ⚡ Tech Stack
 
 <table>
 <tr>
@@ -209,10 +209,10 @@ I approach development as a craft — each project is an opportunity to understa
 <br><br>
 <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vue.js-161B22?style=flat&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Tailwind-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/Bootstrap-161B22?style=flat&logo=bootstrap&logoColor=7952B3" />
 <img src="https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css&logoColor=1572B6" />
 
 </td>
 <td valign="top" width="33%">
@@ -235,7 +235,7 @@ I approach development as a craft — each project is an opportunity to understa
 
 **AI & Data Science**
 <br><br>
-<img src="https://img.shields.io/badge/Generative_AI-161B22?style=flat&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat&logo=openai&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/AI_Agents-161B22?style=flat&logo=openai&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" />
@@ -258,9 +258,9 @@ I approach development as a craft — each project is an opportunity to understa
 **Currently Deepening**
 <br><br>
 <img src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/AI_&_Machine_Learning-161B22?style=flat&logo=openai&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Machine_Learning-161B22?style=flat&logo=openai&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/React_Native-161B22?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Full_Stack_Architecture-161B22?style=flat&logo=stackblitz&logoColor=1389FD" />
+<img src="https://img.shields.io/badge/System_Design-161B22?style=flat&logo=stackblitz&logoColor=1389FD" />
 
 </td>
 </tr>
@@ -272,37 +272,7 @@ I approach development as a craft — each project is an opportunity to understa
 
 <br>
 
-## Analytics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E6EDF3&ring_color=7C3AED&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=06B6D4&text_color=1F2328&ring_color=7C3AED&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E6EDF3&ring_color=7C3AED&rank_icon=github" alt="GitHub Stats" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzodasul&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzodasul&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=1F2328&langs_count=8" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzodasul&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&langs_count=8" alt="Top Languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=enzzodasul&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=7D8590&dates=7D8590&currStreakNum=E6EDF3&sideNums=E6EDF3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=enzzodasul&hide_border=true&background=FFFFFF&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED&sideLabels=656D76&dates=656D76&currStreakNum=1F2328&sideNums=1F2328" />
-    <img width="520" src="https://streak-stats.demolab.com?user=enzzodasul&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=7D8590&dates=7D8590&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub Streak" />
-  </picture>
-</p>
-
-<br>
-
-<img src=".github/assets/divider.svg" width="100%" alt="" />
-
-<br>
-
-## Certifications
+## 🎓 Certifications
 
 <details>
 <summary><b>DIO — Digital Innovation One</b></summary>
@@ -320,13 +290,11 @@ I approach development as a craft — each project is an opportunity to understa
 
 </details>
 
-<br>
-
 <details>
 <summary><b>Full Stack Training Path</b></summary>
 <br>
 
-> Structured learning path covering frontend, backend, databases, AI, and data science.
+> Structured learning path: frontend, backend, databases, AI, and data science.
 
 | Module | Technology | Area |
 | :---: | :--- | :--- |
@@ -349,12 +317,22 @@ I approach development as a craft — each project is an opportunity to understa
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzzodasul/enzzodasul/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzzodasul/enzzodasul/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/enzzodasul/enzzodasul/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=3500&pause=2000&color=7D8590&center=true&vCenter=true&repeat=true&width=420&height=24&lines=I+don't+just+want+to+learn+technologies.;I+want+to+understand+how+things+work.;And+build+solutions+that+matter." alt="Philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=2000&color=7D8590&center=true&vCenter=true&repeat=true&width=420&height=24&lines=I+don't+just+want+to+learn+technologies.;I+want+to+understand+how+things+work.;And+build+solutions+that+matter." alt="Philosophy" />
 </p>
 
 <p align="center">
   <sub>Built with intention · Designed with care</sub>
 </p>
 
-<br>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:0e7490,50:7C3AED,80:1a1145,100:0D1117&height=120&section=footer&animation=twinkling" />
+</p>
