@@ -139,9 +139,6 @@
 
 ### 💻 DEVELOPER PROFILE
 
-<details open>
-<summary><b>Explore my developer profile</b></summary>
-
 ```javascript
 const enzzo = {
   name: "Enzzo da Sul",
@@ -166,8 +163,6 @@ const enzzo = {
   mindset: "Learn. Build. Test. Improve."
 };
 ```
-
-</details>
 
 ---
 
