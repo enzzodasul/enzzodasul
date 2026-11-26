@@ -137,32 +137,57 @@
   I enjoy exploring new technologies, solving problems and transforming ideas into functional digital solutions.
 </p>
 
-### 💻 DEVELOPER PROFILE
+---
 
-```javascript
-const enzzo = {
-  name: "Enzzo da Sul",
-  username: "enzzodasul",
-  role: "Developer",
-  location: "Brazil 🇧🇷",
+## 💻 DEVELOPER PROFILE
 
-  interests: [
-    "Full Stack Development",
-    "Backend Engineering",
-    "Frontend Development",
-    "Artificial Intelligence",
-    "Software Engineering"
-  ],
-
-  currentlyLearning: [
-    "Java",
-    "Artificial Intelligence",
-    "Full Stack Development"
-  ],
-
-  mindset: "Learn. Build. Test. Improve."
-};
-```
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/DEVELOPER-FULL%20STACK-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
+      <br/><br/>
+      <b>ENZZO DA SUL</b>
+      <br/>
+      <sub>@enzzodasul · Brazil 🇧🇷</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="50%">
+      <br/>
+      <img src="https://img.shields.io/badge/MINDSET-LEARN%20BUILD%20IMPROVE-00D9FF?style=for-the-badge&logoColor=white"/>
+      <br/><br/>
+      <b>Developer Philosophy</b>
+      <br/>
+      <sub>Learn. Build. Test. Improve.</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <b>⚡ AREAS OF INTEREST</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Full%20Stack-0077FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Backend-0759C7?style=flat-square"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Frontend-00A6D6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-7B61FF?style=flat-square"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Software%20Engineering-30363D?style=flat-square"/>
+      <br/><br/>
+    </td>
+    <td align="center">
+      <br/>
+      <b>🚀 CURRENTLY LEARNING</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-7B61FF?style=flat-square"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Full%20Stack%20Development-0077FF?style=flat-square"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
