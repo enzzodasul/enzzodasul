@@ -1,14 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  ENZZO MARCHESOTTI · GITHUB PROFILE                               -->
-<!--  Design: Dark Premium · Animated · Violet/Cyan                    -->
+<!--  Design: Dark Premium · Animated SVG · Violet/Cyan                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,15:1a1145,40:7C3AED,60:4f46e5,80:0e7490,100:0D1117&height=230&section=header&text=ENZZO%20MARCHESOTTI&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%C2%B7%20Brazil&descSize=15&descAlignY=55&descColor=C4B5FD" />
+  <img src=".github/assets/hero-bg.svg" width="100%" alt="Enzzo Marchesotti — Full Stack Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=550&height=40&lines=%E2%9C%A6+Building+full+stack+applications;%E2%9C%A6+Java+%7C+TypeScript+%7C+React+%7C+Python;%E2%9C%A6+Exploring+AI+%26+modern+architectures" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=550&height=36&lines=%E2%9C%A6+Building+full+stack+applications;%E2%9C%A6+Java+%7C+TypeScript+%7C+React+%7C+Python;%E2%9C%A6+Exploring+AI+%26+modern+architectures" alt="Typing" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 
 <br>
 
-## 📊 Analytics
+<h2><img src=".github/assets/icons/analytics.svg" width="20" height="20" align="absmiddle" />&nbsp;&nbsp;Analytics</h2>
 
 <p align="center">
   <picture>
@@ -64,13 +64,13 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 
 <br>
 
-## 🚀 Featured Projects
+<h2><img src=".github/assets/icons/projects.svg" width="20" height="20" align="absmiddle" />&nbsp;&nbsp;Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/enzzodasul/APP-VIAGEM-SEGURA"><img src=".github/assets/projects/viagem-segura.svg" width="100%" alt="Viagem Segura" /></a>
-<h3 align="center">🛰️ Viagem Segura</h3>
+<h3 align="center">Viagem Segura</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/Fastify-161B22?style=flat&logo=fastify&logoColor=white" />
@@ -86,7 +86,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/enzzodasul/Site-Enzzodasul"><img src=".github/assets/projects/enzzo-platform.svg" width="100%" alt="Enzzo da Sul Platform" /></a>
-<h3 align="center">🎵 Enzzo da Sul — Platform</h3>
+<h3 align="center">Enzzo da Sul — Platform</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
@@ -95,7 +95,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </p>
 <p align="center"><sub>Official digital platform for a musical artist. Embedded Spotify player, YouTube video management, responsive design, and dynamic content.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/Site-Enzzodasul"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Site-Enzzodasul/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
+  <a href="https://github.com/enzzodasul/Site-Enzzodasul"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Site-Enzzodasul/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 <br>
 </td>
@@ -103,20 +103,20 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/enzzodasul/Sistema-ia-precificacao-odontologica"><img src=".github/assets/projects/ai-dental.svg" width="100%" alt="AI Dental Pricing" /></a>
-<h3 align="center">🦷 AI Dental Pricing</h3>
+<h3 align="center">AI Dental Pricing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/AI-161B22?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" />
 </p>
 <p align="center"><sub>AI-powered pricing system for dental procedures. Combines artificial intelligence with healthcare business logic for automated quotation.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/Sistema-ia-precificacao-odontologica"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Sistema-ia-precificacao-odontologica/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
+  <a href="https://github.com/enzzodasul/Sistema-ia-precificacao-odontologica"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Sistema-ia-precificacao-odontologica/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 <br>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/enzzodasul/estudos-react"><img src=".github/assets/projects/mini-catalogo.svg" width="100%" alt="Mini Catálogo" /></a>
-<h3 align="center">🛍️ Mini Catálogo</h3>
+<h3 align="center">Mini Catálogo</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" />
@@ -124,7 +124,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </p>
 <p align="center"><sub>Product catalog with favorites, detail pages, and responsive UI. Built with React Router, Context API, and custom hooks. Deployed on Vercel.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/estudos-react"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://mini-catalogo-beta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
+  <a href="https://github.com/enzzodasul/estudos-react"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://mini-catalogo-beta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 <br>
 </td>
@@ -132,7 +132,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/enzzodasul/Sistema-Controle-de-caixa"><img src=".github/assets/projects/cash-control.svg" width="100%" alt="Cash Control System" /></a>
-<h3 align="center">💰 Cash Control System</h3>
+<h3 align="center">Cash Control System</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Flask-161B22?style=flat&logo=flask&logoColor=white" />
@@ -145,7 +145,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/enzzodasul/Novo-Site-Cervejaria-Barbante"><img src=".github/assets/projects/barbante.svg" width="100%" alt="Cervejaria Barbante" /></a>
-<h3 align="center">🍺 Cervejaria Barbante</h3>
+<h3 align="center">Cervejaria Barbante</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-161B22?style=flat&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-161B22?style=flat&logo=css&logoColor=1572B6" />
@@ -154,7 +154,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </p>
 <p align="center"><sub>Complete website for a craft brewery. Multi-page layout with product showcase, brand identity, and responsive design.</sub></p>
 <p align="center">
-  <a href="https://github.com/enzzodasul/Novo-Site-Cervejaria-Barbante"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Novo-Site-Cervejaria-Barbante/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logoColor=white" /></a>
+  <a href="https://github.com/enzzodasul/Novo-Site-Cervejaria-Barbante"><img src="https://img.shields.io/badge/Source_Code-161B22?style=flat&logo=github&logoColor=white" /></a>&nbsp;<a href="https://enzzodasul.github.io/Novo-Site-Cervejaria-Barbante/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 <br>
 </td>
@@ -164,7 +164,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <br>
 
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary><b>More Projects</b></summary>
 <br>
 
 | Project | Stack | Description |
@@ -186,7 +186,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 
 <br>
 
-## ⚡ Tech Stack
+<h2><img src=".github/assets/icons/stack.svg" width="20" height="20" align="absmiddle" />&nbsp;&nbsp;Tech Stack</h2>
 
 <table>
 <tr>
@@ -199,7 +199,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/C-161B22?style=flat&logo=c&logoColor=A8B9CC" />
-<img src="https://img.shields.io/badge/C%23-161B22?style=flat&logo=csharp&logoColor=512BD4" />
+<img src="https://img.shields.io/badge/C%23-161B22?style=flat&logo=dotnet&logoColor=512BD4" />
 <img src="https://img.shields.io/badge/PHP-161B22?style=flat&logo=php&logoColor=777BB4" />
 
 </td>
@@ -236,8 +236,8 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 **AI & Data Science**
 <br><br>
 <img src="https://img.shields.io/badge/Generative_AI-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat&logo=openai&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/AI_Agents-161B22?style=flat&logo=openai&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/AI_Agents-161B22?style=flat&logo=probot&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" />
 
 </td>
@@ -247,7 +247,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 <br><br>
 <img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=visualstudiocode&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=gnubash&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/Figma-161B22?style=flat&logo=figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/npm-161B22?style=flat&logo=npm&logoColor=CB3837" />
 <img src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF" />
@@ -258,7 +258,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 **Currently Deepening**
 <br><br>
 <img src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00" />
-<img src="https://img.shields.io/badge/Machine_Learning-161B22?style=flat&logo=openai&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Machine_Learning-161B22?style=flat&logo=huggingface&logoColor=A78BFA" />
 <img src="https://img.shields.io/badge/React_Native-161B22?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/System_Design-161B22?style=flat&logo=stackblitz&logoColor=1389FD" />
 
@@ -272,7 +272,7 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 
 <br>
 
-## 🎓 Certifications
+<h2><img src=".github/assets/icons/certifications.svg" width="20" height="20" align="absmiddle" />&nbsp;&nbsp;Certifications</h2>
 
 <details>
 <summary><b>DIO — Digital Innovation One</b></summary>
@@ -330,9 +330,5 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 </p>
 
 <p align="center">
-  <sub>Built with intention · Designed with care</sub>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:0e7490,50:7C3AED,80:1a1145,100:0D1117&height=120&section=footer&animation=twinkling" />
+  <img src=".github/assets/footer-bg.svg" width="100%" alt="Code Create Innovate Evolve" />
 </p>
