@@ -34,9 +34,9 @@ Currently deepening backend architecture and AI through the <b>Itaú Java + AI B
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E6EDF3&ring_color=7C3AED&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=06B6D4&text_color=1F2328&ring_color=7C3AED&rank_icon=github" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzzodasul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=E6EDF3&ring_color=7C3AED&rank_icon=github" alt="Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/stats-light.svg" />
+    <img height="170" src=".github/assets/stats-dark.svg" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>

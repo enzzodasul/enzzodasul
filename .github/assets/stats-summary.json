@@ -1,0 +1,172 @@
+{
+  "generatedAt": "2026-11-26T04:55:47.120Z",
+  "username": "enzzodasul",
+  "totalStars": 0,
+  "totalCommits": 317,
+  "totalPRs": 2,
+  "totalIssues": 12,
+  "openIssues": 9,
+  "closedIssues": 3,
+  "contributedTo": 2,
+  "repositories": [
+    "Soberana-Front/chatbot-soberana-web"
+  ],
+  "issues": [
+    {
+      "id": 5769720360,
+      "number": 186,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #128 – Confirmar limites da página de Configurações",
+      "state": "open",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/186",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5769718668,
+      "number": 184,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #126 – Definir regra extra no Alterar Senha (nova senha ≠ atual)",
+      "state": "closed",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/184",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5769705437,
+      "number": 173,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #115 – Unificar rotas de dados do usuário (GET /auth/me vs GET /profile)",
+      "state": "open",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/173",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5769704419,
+      "number": 172,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #114 – Definir endpoint para upload de foto de perfil",
+      "state": "open",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/172",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5769703249,
+      "number": 171,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #113 – Definir tratamento de 401 para senha atual errada",
+      "state": "open",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/171",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5769700471,
+      "number": 169,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #111 – Alinhar baseURL com o backend",
+      "state": "closed",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/169",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5769699406,
+      "number": 168,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #110 – Corrigir schema.d.ts e caminho do api:types",
+      "state": "closed",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/168",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5769697982,
+      "number": 167,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #109 – Verificar integração da página de Comparações",
+      "state": "open",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/167",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5197465554,
+      "number": 26,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-013 — Criar perfil e configurações do usuário",
+      "state": "open",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/26",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5197464643,
+      "number": 25,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-012 — Implementar logout e encerramento da sessão",
+      "state": "open",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/25",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5197463015,
+      "number": 23,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-010 — Implementar redefinição de senha",
+      "state": "open",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/23",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    },
+    {
+      "id": 5197462129,
+      "number": 22,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-009 — Implementar solicitação de recuperação de senha",
+      "state": "open",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/22",
+      "criteria": [
+        "involves",
+        "org:Soberana-Front"
+      ]
+    }
+  ]
+}
