@@ -1,12 +1,11 @@
 
-
 <!-- ===================================================== -->
 <!-- ENZZO MARCHESOTTI | GITHUB PROFILE -->
 <!-- PREMIUM DARK DESIGN | CYAN | BLUE | PURPLE -->
 <!-- ===================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,30:111C46,65:0759C7,100:00D9FF&height=230&section=header&text=ENZZO%MARCHESOTTI&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%%%&descSize=15&descAlignY=58&descColor=00E5FF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,30:111C46,65:0759C7,100:00D9FF&height=230&section=header&text=ENZZO%20MARCHESOTTI&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=58&descColor=00E5FF" />
 </p>
 
 <p align="center">
@@ -123,7 +122,7 @@
 ## 👨‍💻 ABOUT ME
 
 <p align="center">
-  <img width="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img width="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer working at a computer" />
 </p>
 
 <p align="center">
@@ -138,7 +137,10 @@
   I enjoy exploring new technologies, solving problems and transforming ideas into functional digital solutions.
 </p>
 
-### `> DEVELOPER PROFILE`
+### 💻 DEVELOPER PROFILE
+
+<details open>
+<summary><b>Explore my developer profile</b></summary>
 
 ```javascript
 const enzzo = {
@@ -164,6 +166,8 @@ const enzzo = {
   mindset: "Learn. Build. Test. Improve."
 };
 ```
+
+</details>
 
 ---
 
@@ -269,8 +273,10 @@ Continuously expanding my knowledge through courses and certifications in progra
 </p>
 
 <p align="center">
-  <b>I don't just want to learn technologies.<br/>
-  I want to understand how things work and build solutions that matter.</b>
+  <b>
+    I don't just want to learn technologies.<br/>
+    I want to understand how things work and build solutions that matter.
+  </b>
 </p>
 
 ---
@@ -299,4 +305,3 @@ Continuously expanding my knowledge through courses and certifications in progra
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:0759C7,100:080B18&height=130&section=footer&animation=twinkling" />
 </p>
-
