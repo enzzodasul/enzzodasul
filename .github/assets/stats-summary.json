@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T16:00:55.364Z",
+  "generatedAt": "2026-11-28T01:00:04.889Z",
   "username": "enzzodasul",
   "totalStars": 0,
-  "totalCommits": 406,
+  "totalCommits": 437,
   "totalPRs": 2,
-  "totalIssues": 77,
-  "openIssues": 15,
-  "closedIssues": 62,
+  "totalIssues": 117,
+  "openIssues": 17,
+  "closedIssues": 100,
   "milestonesParticipated": 12,
   "milestones": [
     "01 — EP1: Autenticação",
@@ -35,8 +35,8 @@
           "number": 1,
           "title": "01 — EP1: Autenticação",
           "state": "open",
-          "open_issues": 5,
-          "closed_issues": 11
+          "open_issues": 0,
+          "closed_issues": 16
         },
         {
           "number": 2,
@@ -84,8 +84,8 @@
           "number": 8,
           "title": "08 — EP8: Correções e Ajustes",
           "state": "open",
-          "open_issues": 5,
-          "closed_issues": 26
+          "open_issues": 2,
+          "closed_issues": 29
         },
         {
           "number": 9,
@@ -98,29 +98,29 @@
           "number": 10,
           "title": "10 — M1: Auth e cadastros",
           "state": "open",
-          "open_issues": 14,
-          "closed_issues": 0
+          "open_issues": 2,
+          "closed_issues": 12
         },
         {
           "number": 11,
           "title": "11 — M2: Precificação",
           "state": "open",
-          "open_issues": 12,
-          "closed_issues": 0
+          "open_issues": 8,
+          "closed_issues": 4
         },
         {
           "number": 12,
           "title": "12 — M3: IA e conversa",
           "state": "open",
-          "open_issues": 7,
-          "closed_issues": 0
+          "open_issues": 1,
+          "closed_issues": 6
         },
         {
           "number": 13,
           "title": "13 — M4: Comparação e fechamento",
           "state": "open",
-          "open_issues": 8,
-          "closed_issues": 0
+          "open_issues": 4,
+          "closed_issues": 4
         }
       ]
     }
@@ -137,6 +137,21 @@
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/3",
       "criteria": [
         "commit:title-match(13ff49e)"
+      ]
+    },
+    {
+      "id": 5196374560,
+      "number": 5,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #4 – Criar SocialLoginButtons",
+      "state": "closed",
+      "milestone": "01 — EP1: Autenticação",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/5",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#5(c88e747)"
       ]
     },
     {
@@ -159,11 +174,13 @@
       "number": 7,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "Issue #6 – Criar AuthContext (contexto de autenticação)",
-      "state": "open",
+      "state": "closed",
       "milestone": "01 — EP1: Autenticação",
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/7",
       "criteria": [
+        "involves",
+        "commenter",
         "commit:title-match(d948e0e)",
         "commit:title-match(13ff49e)",
         "commit:title-match(c6bdeb3)",
@@ -171,17 +188,33 @@
       ]
     },
     {
+      "id": 5196420924,
+      "number": 12,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #11 – Criar seção de Configurações Iniciais (InitialSettingsSection)",
+      "state": "closed",
+      "milestone": "01 — EP1: Autenticação",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/12",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#12(719d8dd)"
+      ]
+    },
+    {
       "id": 5197462129,
       "number": 22,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "FE-009 — Implementar solicitação de recuperação de senha",
-      "state": "open",
+      "state": "closed",
       "milestone": "10 — M1: Auth e cadastros",
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/22",
       "criteria": [
         "involves",
-        "commenter"
+        "commenter",
+        "commit:gh#22(f3edc9a)"
       ]
     },
     {
@@ -189,10 +222,26 @@
       "number": 23,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "FE-010 — Implementar redefinição de senha",
-      "state": "open",
+      "state": "closed",
       "milestone": "10 — M1: Auth e cadastros",
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/23",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#23(d44bf6b)",
+        "commit:title-match(d44bf6b)"
+      ]
+    },
+    {
+      "id": 5197463829,
+      "number": 24,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-011 — Integrar sessão com cookies e refresh controlado",
+      "state": "open",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/24",
       "criteria": [
         "involves",
         "commenter"
@@ -203,13 +252,15 @@
       "number": 25,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "FE-012 — Implementar logout e encerramento da sessão",
-      "state": "open",
+      "state": "closed",
       "milestone": "10 — M1: Auth e cadastros",
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/25",
       "criteria": [
         "involves",
-        "commenter"
+        "commenter",
+        "commit:gh#25(dceffba)",
+        "commit:title-match(dceffba)"
       ]
     },
     {
@@ -217,15 +268,79 @@
       "number": 26,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "FE-013 — Criar perfil e configurações do usuário",
-      "state": "open",
+      "state": "closed",
       "milestone": "10 — M1: Auth e cadastros",
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/26",
       "criteria": [
         "involves",
         "commenter",
+        "commit:gh#26(583053b)",
+        "commit:title-match(583053b)",
         "commit:title-match(d3ed3c8)",
         "commit:title-match(08ed587)"
+      ]
+    },
+    {
+      "id": 5197466453,
+      "number": 27,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-014 — Tratar conclusão de cadastro social",
+      "state": "open",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/27",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197467509,
+      "number": 28,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-015 — Criar listagem e busca de clínicas",
+      "state": "closed",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/28",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#28(1b65d6e)",
+        "commit:title-match(1b65d6e)"
+      ]
+    },
+    {
+      "id": 5197468252,
+      "number": 29,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-016 — Criar formulário de cadastro de clínica",
+      "state": "closed",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/29",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:title-match(f3cbfce)"
+      ]
+    },
+    {
+      "id": 5197469015,
+      "number": 30,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-017 — Criar detalhes e edição de clínica",
+      "state": "closed",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/30",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:title-match(6c7bdeb)",
+        "commit:gh#30(168c2c9)",
+        "commit:title-match(168c2c9)"
       ]
     },
     {
@@ -233,12 +348,82 @@
       "number": 31,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "FE-018 — Criar editor de custos atuais da clínica",
-      "state": "open",
+      "state": "closed",
       "milestone": "10 — M1: Auth e cadastros",
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/31",
       "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#31(5477f85)",
+        "commit:title-match(5477f85)",
         "commit:title-match(592932f)"
+      ]
+    },
+    {
+      "id": 5197470767,
+      "number": 32,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-019 — Criar histórico de custos da clínica",
+      "state": "closed",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/32",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#32(9ec5d9f)",
+        "commit:title-match(9ec5d9f)",
+        "commit:title-match(5477f85)"
+      ]
+    },
+    {
+      "id": 5197471612,
+      "number": 33,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-020 — Criar listagem, filtros e paginação de procedimentos",
+      "state": "closed",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/33",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#33(3fe769c)",
+        "commit:title-match(3fe769c)"
+      ]
+    },
+    {
+      "id": 5197472552,
+      "number": 34,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-021 — Criar cadastro de procedimento",
+      "state": "closed",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/34",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#34(f3cbfce)",
+        "commit:title-match(f3cbfce)"
+      ]
+    },
+    {
+      "id": 5197473501,
+      "number": 35,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-022 — Criar detalhes e edição de procedimento",
+      "state": "closed",
+      "milestone": "10 — M1: Auth e cadastros",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/35",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#35(6c7bdeb)",
+        "commit:title-match(6c7bdeb)",
+        "commit:title-match(168c2c9)"
       ]
     },
     {
@@ -251,7 +436,125 @@
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/36",
       "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#36(5e26230)",
         "commit:title-match(b4dfd5b)"
+      ]
+    },
+    {
+      "id": 5197475280,
+      "number": 37,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-024 — Criar rascunho selecionando clínica e procedimento",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/37",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197476107,
+      "number": 38,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-025 — Criar estrutura visual do assistente de precificação",
+      "state": "closed",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/38",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#38(677874f)"
+      ]
+    },
+    {
+      "id": 5197476789,
+      "number": 39,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-026 — Implementar edição dos parâmetros da precificação",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/39",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197477661,
+      "number": 40,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-027 — Implementar listagem e edição dos itens de custo",
+      "state": "closed",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/40",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#40(399a00a)"
+      ]
+    },
+    {
+      "id": 5197478464,
+      "number": 41,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-028 — Tratar formulário alterado e não salvo",
+      "state": "closed",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/41",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#41(572d019)"
+      ]
+    },
+    {
+      "id": 5197479353,
+      "number": 42,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-029 — Retomar e editar uma precificação em rascunho",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/42",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197480173,
+      "number": 43,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-030 — Enviar parâmetros para processamento no back-end",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/43",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197481180,
+      "number": 44,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-031 — Confirmar e editar sugestões retornadas",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/44",
+      "criteria": [
+        "involves",
+        "commenter"
       ]
     },
     {
@@ -264,7 +567,56 @@
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/45",
       "criteria": [
+        "involves",
+        "commenter",
         "commit:title-match(7f79bab)"
+      ]
+    },
+    {
+      "id": 5197483037,
+      "number": 46,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-033 — Exibir resultado, custos, incidências, lucro e preço sugerido",
+      "state": "closed",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/46",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#46(cbc0268)",
+        "commit:title-match(cbc0268)"
+      ]
+    },
+    {
+      "id": 5197483873,
+      "number": 47,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-034 — Tratar conflitos de versão e erros de validação",
+      "state": "open",
+      "milestone": "11 — M2: Precificação",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/47",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#47(3b71bd3)"
+      ]
+    },
+    {
+      "id": 5197484790,
+      "number": 48,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-035 — Exibir aceite da Política de Privacidade antes de iniciar a IA",
+      "state": "closed",
+      "milestone": "12 — M3: IA e conversa",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/48",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#48(b2b768c)",
+        "commit:title-match(b2b768c)"
       ]
     },
     {
@@ -272,13 +624,107 @@
       "number": 49,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "FE-036 — Criar interface de conversa da precificação",
-      "state": "open",
+      "state": "closed",
       "milestone": "12 — M3: IA e conversa",
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/49",
       "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#49(3112524)",
+        "commit:title-match(3112524)",
         "commit:title-match(066f776)",
         "commit:title-match(7f79bab)"
+      ]
+    },
+    {
+      "id": 5197486389,
+      "number": 50,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-037 — Diferenciar dados manuais, sugeridos, confirmados e rejeitados",
+      "state": "closed",
+      "milestone": "12 — M3: IA e conversa",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/50",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#50(7ecd032)"
+      ]
+    },
+    {
+      "id": 5197487260,
+      "number": 51,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-038 — Criar confirmação dos dados extraídos pela IA",
+      "state": "closed",
+      "milestone": "12 — M3: IA e conversa",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/51",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#51(05eea8a)",
+        "commit:title-match(05eea8a)"
+      ]
+    },
+    {
+      "id": 5197487943,
+      "number": 52,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-039 — Disponibilizar preenchimento manual como fallback",
+      "state": "closed",
+      "milestone": "12 — M3: IA e conversa",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/52",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#52(e07d967)",
+        "commit:title-match(e07d967)"
+      ]
+    },
+    {
+      "id": 5197488962,
+      "number": 53,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-040 — Tratar espera prolongada, falha e rate limit da IA",
+      "state": "closed",
+      "milestone": "12 — M3: IA e conversa",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/53",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#53(ed2972c)"
+      ]
+    },
+    {
+      "id": 5197489755,
+      "number": 54,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-041 — Integrar atualizações da conversa por SSE",
+      "state": "open",
+      "milestone": "12 — M3: IA e conversa",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/54",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197490723,
+      "number": 55,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-042 — Criar seletor de duas precificações para comparação",
+      "state": "open",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/55",
+      "criteria": [
+        "involves",
+        "commenter"
       ]
     },
     {
@@ -291,7 +737,125 @@
       "author": "LeonelPrestes",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/56",
       "criteria": [
+        "involves",
+        "commenter",
         "commit:title-match(3377c7c)"
+      ]
+    },
+    {
+      "id": 5197492296,
+      "number": 57,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-044 — Criar gráficos de custos, lucro e preço final",
+      "state": "open",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/57",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197493212,
+      "number": 58,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-045 — Implementar visualização e download do relatório PDF",
+      "state": "open",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/58",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#58(6435e60)"
+      ]
+    },
+    {
+      "id": 5197494013,
+      "number": 59,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-046 — Revisar acessibilidade, contraste e navegação por teclado",
+      "state": "closed",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/59",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197494754,
+      "number": 60,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-047 — Validar responsividade em celular, tablet e desktop",
+      "state": "closed",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/60",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197495694,
+      "number": 61,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-048 — Verificar TypeScript, build e critérios manuais do MVP",
+      "state": "closed",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/61",
+      "criteria": [
+        "involves",
+        "commenter"
+      ]
+    },
+    {
+      "id": 5197496392,
+      "number": 62,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "FE-049 — Atualizar documentação funcional e decisões do projeto",
+      "state": "closed",
+      "milestone": "13 — M4: Comparação e fechamento",
+      "author": "LeonelPrestes",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/62",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#62(caed8d9)",
+        "commit:title-match(caed8d9)"
+      ]
+    },
+    {
+      "id": 5206123847,
+      "number": 63,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #13 – Criar página de Cadastro (multistep)",
+      "state": "closed",
+      "milestone": "01 — EP1: Autenticação",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/63",
+      "criteria": [
+        "involves",
+        "commenter",
+        "commit:gh#63(18fbb78)"
+      ]
+    },
+    {
+      "id": 5206151317,
+      "number": 66,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #16 – Configurar AppRoutes com todas as rotas do sistema",
+      "state": "closed",
+      "milestone": "01 — EP1: Autenticação",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/66",
+      "criteria": [
+        "involves",
+        "commenter"
       ]
     },
     {
@@ -537,10 +1101,27 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/97",
       "criteria": [
+        "commit:title-match(9ec5d9f)",
+        "commit:title-match(5477f85)",
+        "commit:title-match(168c2c9)",
+        "commit:title-match(1b65d6e)",
         "commit:title-match(592932f)",
         "commit:title-match(35220a7)",
         "commit:title-match(978ce10)",
         "commit:title-match(553f521)"
+      ]
+    },
+    {
+      "id": 5214294755,
+      "number": 98,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #47 – Criar ClinicModal (modal com formulário)",
+      "state": "closed",
+      "milestone": "03 — EP3: Clínicas e Procedimentos (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/98",
+      "criteria": [
+        "commit:title-match(9ec5d9f)"
       ]
     },
     {
@@ -553,10 +1134,26 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/104",
       "criteria": [
+        "commit:title-match(6c7bdeb)",
+        "commit:title-match(f3cbfce)",
+        "commit:title-match(3fe769c)",
         "commit:title-match(d041c30)",
         "commit:title-match(b8a0414)",
         "commit:title-match(f2cfc11)",
         "commit:title-match(3cc7a56)"
+      ]
+    },
+    {
+      "id": 5214309210,
+      "number": 105,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #54 – Criar ProcedureModal (modal com formulário)",
+      "state": "closed",
+      "milestone": "03 — EP3: Clínicas e Procedimentos (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/105",
+      "criteria": [
+        "commit:title-match(f3cbfce)"
       ]
     },
     {
@@ -582,6 +1179,10 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/113",
       "criteria": [
+        "commit:title-match(9ec5d9f)",
+        "commit:title-match(5477f85)",
+        "commit:title-match(168c2c9)",
+        "commit:title-match(1b65d6e)",
         "commit:title-match(592932f)",
         "commit:title-match(35220a7)",
         "commit:title-match(978ce10)",
@@ -598,6 +1199,9 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/114",
       "criteria": [
+        "commit:title-match(6c7bdeb)",
+        "commit:title-match(f3cbfce)",
+        "commit:title-match(3fe769c)",
         "commit:title-match(d041c30)",
         "commit:internal#63(b8a0414)",
         "commit:title-match(b8a0414)",
@@ -615,6 +1219,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/115",
       "criteria": [
+        "commit:title-match(3112524)",
+        "commit:title-match(7ecd032)",
         "commit:title-match(23f4aa1)",
         "commit:internal#64(7f79bab)",
         "commit:title-match(7f79bab)",
@@ -625,6 +1231,19 @@
         "commit:title-match(5d89675)",
         "commit:title-match(b3957e2)",
         "commit:title-match(67e827e)"
+      ]
+    },
+    {
+      "id": 5214387619,
+      "number": 116,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #65 – Criar PricingResult (etapa 4 – resultado final)",
+      "state": "closed",
+      "milestone": "04 — EP4: Precificação com IA (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/116",
+      "criteria": [
+        "commit:title-match(cbc0268)"
       ]
     },
     {
@@ -665,6 +1284,7 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/119",
       "criteria": [
+        "commit:title-match(6435e60)",
         "commit:internal#68(5012791)",
         "commit:title-match(5012791)"
       ]
@@ -746,6 +1366,7 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/125",
       "criteria": [
+        "commit:title-match(cbc0268)",
         "commit:internal#74(9fe0e9b)",
         "commit:internal#74(8cbdd81)",
         "commit:title-match(8cbdd81)",
@@ -777,6 +1398,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/128",
       "criteria": [
+        "commit:title-match(05eea8a)",
+        "commit:title-match(880b72c)",
         "commit:title-match(4260b06)",
         "commit:title-match(a140e5a)",
         "commit:title-match(8012d0a)",
@@ -812,6 +1435,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/129",
       "criteria": [
+        "commit:title-match(05eea8a)",
+        "commit:title-match(880b72c)",
         "commit:title-match(4260b06)",
         "commit:title-match(a140e5a)",
         "commit:title-match(8012d0a)",
@@ -847,6 +1472,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/131",
       "criteria": [
+        "commit:title-match(05eea8a)",
+        "commit:title-match(880b72c)",
         "commit:title-match(4260b06)",
         "commit:title-match(a140e5a)",
         "commit:title-match(8012d0a)",
@@ -882,6 +1509,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/132",
       "criteria": [
+        "commit:title-match(05eea8a)",
+        "commit:title-match(880b72c)",
         "commit:title-match(4260b06)",
         "commit:title-match(a140e5a)",
         "commit:title-match(8012d0a)",
@@ -921,6 +1550,20 @@
       ]
     },
     {
+      "id": 5215588149,
+      "number": 144,
+      "repo": "Soberana-Front/chatbot-soberana-web",
+      "title": "Issue #84 – Criar página de Histórico (lista com filtros)",
+      "state": "closed",
+      "milestone": "06 — EP6: Histórico (protótipo)",
+      "author": "gabrieljorda",
+      "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/144",
+      "criteria": [
+        "commit:title-match(5e26230)",
+        "commit:title-match(3fe769c)"
+      ]
+    },
+    {
       "id": 5215588929,
       "number": 145,
       "repo": "Soberana-Front/chatbot-soberana-web",
@@ -930,6 +1573,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/145",
       "criteria": [
+        "commit:title-match(5e26230)",
+        "commit:title-match(9ec5d9f)",
         "commit:internal#85(d6dbd33)",
         "commit:title-match(b4dfd5b)",
         "commit:title-match(94fd09e)"
@@ -945,6 +1590,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/146",
       "criteria": [
+        "commit:title-match(5e26230)",
+        "commit:title-match(9ec5d9f)",
         "commit:title-match(b4dfd5b)",
         "commit:title-match(94fd09e)"
       ]
@@ -959,6 +1606,8 @@
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/147",
       "criteria": [
+        "commit:title-match(5e26230)",
+        "commit:title-match(9ec5d9f)",
         "commit:title-match(b4dfd5b)",
         "commit:title-match(94fd09e)"
       ]
@@ -1120,13 +1769,15 @@
       "number": 167,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "Issue #109 – Verificar integração da página de Comparações",
-      "state": "open",
+      "state": "closed",
       "milestone": "08 — EP8: Correções e Ajustes",
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/167",
       "criteria": [
         "involves",
         "commenter",
+        "commit:gh#167(880b72c)",
+        "commit:title-match(880b72c)",
         "commit:gh#167(4260b06)",
         "commit:title-match(4260b06)"
       ]
@@ -1177,7 +1828,7 @@
       "number": 171,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "Issue #113 – Definir tratamento de 401 para senha atual errada",
-      "state": "open",
+      "state": "closed",
       "milestone": "08 — EP8: Correções e Ajustes",
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/171",
@@ -1288,13 +1939,18 @@
       "number": 186,
       "repo": "Soberana-Front/chatbot-soberana-web",
       "title": "Issue #128 – Confirmar limites da página de Configurações",
-      "state": "open",
+      "state": "closed",
       "milestone": "08 — EP8: Correções e Ajustes",
       "author": "gabrieljorda",
       "html_url": "https://github.com/Soberana-Front/chatbot-soberana-web/issues/186",
       "criteria": [
         "involves",
         "commenter",
+        "commit:title-match(3b71bd3)",
+        "commit:title-match(583053b)",
+        "commit:title-match(05eea8a)",
+        "commit:title-match(d44bf6b)",
+        "commit:title-match(18fbb78)",
         "commit:title-match(04e97bd)",
         "commit:title-match(513cc85)",
         "commit:title-match(08ed587)"
